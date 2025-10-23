@@ -1,0 +1,2 @@
+creating the file2.txt to have the details of the file2
+
